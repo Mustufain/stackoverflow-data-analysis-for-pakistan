@@ -11,5 +11,6 @@ fluidPage(
   mainPanel(
     plotOutput('plot1',width = "100%", height = "300px"),
     plotOutput('plot2',width = "100%", height = "300px")
+    #plotOutput('plot3',width = "100%", height = "300px")
   )
 )
